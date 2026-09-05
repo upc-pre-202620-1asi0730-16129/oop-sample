@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KcI0g6bQUdk=",
+  "dgSpecHash": "/WtUzUMpTX8=",
   "success": true,
-  "projectFilePath": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming.Tests/Acme.OOProgramming.Tests.csproj",
+  "projectFilePath": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming.Tests/Acme.OOProgramming.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/asanchezs/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",
     "/Users/asanchezs/.nuget/packages/microsoft.codecoverage/17.14.1/microsoft.codecoverage.17.14.1.nupkg.sha512",

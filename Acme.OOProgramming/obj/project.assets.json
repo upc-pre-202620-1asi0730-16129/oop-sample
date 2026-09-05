@@ -13,11 +13,11 @@
   "project": {
     "version": "1.2.0",
     "restore": {
-      "projectUniqueName": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj",
+      "projectUniqueName": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj",
       "projectName": "Acme.OOProgramming",
-      "projectPath": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj",
+      "projectPath": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj",
       "packagesPath": "/Users/asanchezs/.nuget/packages/",
-      "outputPath": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming/obj/",
+      "outputPath": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/asanchezs/.nuget/NuGet/NuGet.Config"

@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming.Tests/Acme.OOProgramming.Tests.csproj",
+      "projectUniqueName": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming.Tests/Acme.OOProgramming.Tests.csproj",
       "projectName": "Acme.OOProgramming.Tests",
-      "projectPath": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming.Tests/Acme.OOProgramming.Tests.csproj",
+      "projectPath": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming.Tests/Acme.OOProgramming.Tests.csproj",
       "packagesPath": "/Users/asanchezs/.nuget/packages/",
-      "outputPath": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming.Tests/obj/",
+      "outputPath": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/asanchezs/.nuget/NuGet/NuGet.Config"
@@ -955,8 +955,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj": {
-              "projectPath": "/Users/asanchezs/repos/202620-1asi0730-sandbox/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj"
+            "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj": {
+              "projectPath": "/Users/asanchezs/repos/202620-0730-16129/oop-sample/Acme.OOProgramming/Acme.OOProgramming.csproj"
             }
           }
         }
